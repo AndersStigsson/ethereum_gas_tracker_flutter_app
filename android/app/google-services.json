@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1029003624428",
+    "project_id": "ethereum-gas-tracker",
+    "storage_bucket": "ethereum-gas-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029003624428:android:f6057760f83e362cd40ac9",
+        "android_client_info": {
+          "package_name": "com.etwasanders.ethereum_gas_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029003624428-6noijnnefjto9v3esjlsqkna8brok5j0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMhI_kCNHtK_cF_Y_XZEgHgZCHtYsg6lE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029003624428-6noijnnefjto9v3esjlsqkna8brok5j0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
